@@ -1,0 +1,21 @@
+.btn-secondary {
+    font-size: 1rem;
+    font-family: 'Source Code Pro';
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 5px 20px 5px 20px;
+    border-radius: 8px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.btn-primary {
+    font-size: 1rem;
+    font-family: 'Source Code Pro';
+    color: white;
+    background-color: orangered;
+    padding: 5px 20px 5px 20px;
+    border-radius: 8px;
+    border-style: none;
+    cursor: pointer;
+}

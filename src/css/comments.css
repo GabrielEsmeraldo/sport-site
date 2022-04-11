@@ -1,0 +1,30 @@
+.comments {
+    margin-left: 60px;
+    margin-right: 60px;
+    box-sizing: border-box;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 491px;
+    height: 191px;
+    background-color: #181818;
+    border-radius: 14px;
+}
+
+.name {
+    font-size: 0.7rem;
+    padding-top: 15px;
+}
+
+.comment {
+    padding-top: 55px;
+}
+
+.arrow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

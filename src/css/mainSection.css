@@ -1,0 +1,37 @@
+.mainSection {
+    height: 627px;
+    background-image: url('../../public/img/mainImage.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.mainSection h1 {
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 4rem;
+    color: white;
+}
+
+.mainSection .content {
+    padding-top: 100px;
+    padding-left: 110px;
+}
+
+.mainSection .content h1{
+    line-height: 4rem;
+    font-weight: 600;
+}
+
+.mainSection .content h2{
+    font-size: 1rem;
+    margin-top: 15px;
+}
+
+.mainSection .content h3{
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.mainSection .content span{
+    color: orangered;
+}

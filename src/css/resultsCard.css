@@ -1,0 +1,20 @@
+.resultsCard {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 225px;
+    padding: 15px;
+}
+
+
+.data {
+    font-size: 2rem;
+    color: orangered;
+}
+
+.description {
+    color: white;
+}

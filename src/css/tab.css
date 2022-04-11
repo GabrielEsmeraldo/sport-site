@@ -1,0 +1,19 @@
+.tab {
+    width: 70vh;
+}
+
+.btn-tab {
+    background-color: rgba(255, 240, 240, 0);
+    font-family: "Source Code Pro";
+    font-size: 1.3rem;
+    padding-right: 1.3rem;
+    color: white;
+    border: none;
+    outline: none;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.btn-tab:hover {
+    color: orangered;
+}

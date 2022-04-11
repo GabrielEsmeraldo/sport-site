@@ -1,0 +1,41 @@
+input {
+    display: block;
+    width: 300px;
+    font-size: 1rem;
+    font-family: "Source Code Pro";
+    background-color: rgba(165, 42, 42, 0);
+    color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 8px;
+}
+
+input::placeholder {
+    color: white;
+    font-size: 1rem;
+}
+
+textarea::placeholder {
+    color: white;
+    font-size: 1rem;
+}
+
+textarea {
+    font-family: "Source Code Pro";
+    margin-top: 8px;
+    background-color: rgba(240, 248, 255, 0);
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    max-width: 300px;
+    min-width: 300px;
+    max-height: 80px;
+    min-height: 80px;
+    overflow-y: hidden;
+    margin-bottom: 32px;
+}

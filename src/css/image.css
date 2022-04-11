@@ -1,0 +1,30 @@
+.model-circle {
+    position: relative;
+    top: 34px;
+    right: 65px;
+    width: 475px;
+    height: 475px;
+}
+
+.iphone {
+    margin-left: 60px;
+}
+
+.model1 {
+    position: relative;
+    top: 60px;
+}
+
+.logoSb {
+    padding-bottom: 30px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.mailPhone img {
+    padding-right: 10px;
+}

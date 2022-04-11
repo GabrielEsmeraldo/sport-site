@@ -1,0 +1,108 @@
+.btn-primary.layout {
+    margin-top: 20px;
+}
+
+.mainSection .layout {
+    display: flex;   
+}
+
+.mainCardSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.main-card {
+    margin-right: 23px;
+    margin-left: 23px;
+}
+
+.about-section {
+    display: flex;
+
+}
+
+.results-card-group {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.comments-group {
+    margin: 0px 66px 0px 66px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.comment-section {
+    display: flex;
+    justify-content: center;
+}
+
+.ask-section {
+    box-sizing: border-box;
+    width: 360px;
+    height: 660px;
+}
+
+.contact-section {
+    box-sizing: border-box;
+    width: 360px;
+    height: 660px;  
+}
+
+.map-section {
+    box-sizing: border-box;
+    width: 360px;
+    height: 660px; 
+}
+
+.components-group {
+    padding-left: 110px;
+    display: flex;
+
+}
+
+.title {
+    margin-top: 80px;
+}
+
+.subtitle {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.mailPhone {
+    padding-bottom: 36px;
+}
+
+.mail p{
+    display: flex;
+    padding-bottom: 12px;
+    padding-top: 4px;
+    align-items: center;
+}
+
+.phone p{
+    display: flex;
+    align-items: center;
+}
+
+.mailPhone span {
+    padding-left: 31px;
+}
+
+.map-section {
+    padding-top: 217px;
+    overflow: hidden;
+    padding-left: 40px;
+}
+
+.components-group {
+    padding-bottom: 70px;
+}
+

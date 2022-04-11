@@ -1,0 +1,21 @@
+.main-card-img {
+    margin-top: 6px;
+}
+
+.main-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 225px;
+    height: 177px;
+    background-color: #181818;;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.main-card h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
