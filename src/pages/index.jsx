@@ -86,6 +86,7 @@ export default function Home() {
                     <Map></Map>
                 </MapSection>
             </ComponentsGroup>
+
             <Footer>
                 <Menu></Menu>
             </Footer>

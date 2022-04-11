@@ -1,4 +1,4 @@
-export default props => {
+export default function Form(props) {
     return (
         <form action="">
             <input type="text" placeholder="Digite seu nome..."/>

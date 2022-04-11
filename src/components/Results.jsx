@@ -1,6 +1,4 @@
-import Title from "./Title"
-
-export default props => {
+export default function Results(props) {
     return (
         <div className="results">
             {props.children}            

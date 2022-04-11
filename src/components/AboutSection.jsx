@@ -1,7 +1,7 @@
-export default props => {
-    return (
-        <div className="about-section">
-            {props.children}
-        </div>
-    )
+export default function AboutSection(props) {
+  return (
+    <div className="about-section">
+        {props.children}
+    </div>
+  )
 }

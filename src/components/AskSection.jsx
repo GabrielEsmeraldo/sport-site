@@ -1,6 +1,6 @@
-export default props => {
+export default function AskSection(props) {
     return (
-        <div className="ask-section">
+        <div>
             {props.children}
         </div>
     )

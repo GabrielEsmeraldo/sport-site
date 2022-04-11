@@ -1,4 +1,4 @@
-export default props => {
+export default function Comments() {
     return (
         <div className="comments-group">
             <img className="model1" src="/img/model1.png" alt="Foto de Modelo" />
@@ -11,6 +11,5 @@ export default props => {
                 <img src="/img/arrow-right.png" alt="Slide para direita" />
             </div>
         </div>
-
     )
 }
